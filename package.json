@@ -1,0 +1,15 @@
+{
+    "name": "Saugandh.dark-bliss-theme",
+    "title": "Saugandh's Theme",
+    "description": "Trying my hand at building a theme!",
+    "homepage": "",
+    "version": "1.0.0",
+    "author": "Saugandh Sasidharan <ssaugandhs@gmail.com> (http://)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
